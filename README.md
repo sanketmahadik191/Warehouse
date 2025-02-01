@@ -67,7 +67,12 @@ This web application is designed to manage and display a list of warehouses. It 
 - **Data Caching:** Implement caching mechanisms to reduce redundant API calls and improve performance.
 - **Additional Features:** Add more custom fields and functionalities as per user requirements.
 
-## Images
+## UI
+
+![image](https://github.com/user-attachments/assets/a4ec7802-73d9-4536-89b6-f9b17f8b51ca)
+![image](https://github.com/user-attachments/assets/4d65b749-73a9-40e9-a4e9-41e0ae46051a)
+
+
 
 
 
