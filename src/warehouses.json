@@ -1,0 +1,257 @@
+[
+    {
+      "name" : "Warehouse-165",
+      "code" : "W-00001",
+      "id" : 1,
+      "city": "Delhi",
+      "space_available": 1000,
+      "type" : "Leasable Space",
+      "cluster" : "cluster-a-32",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-276",
+      "code" : "W-00002",
+      "id" : 2,
+      "city": "Chennai",
+      "space_available": 500,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-1",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-3039",
+      "code" : "W-00003",
+      "id" : 3,
+      "city": "Indore",
+      "space_available": 250,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-1",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-324",
+      "code" : "W-00004",
+      "id" : 4,
+      "city": "Chennai",
+      "space_available": 1000,
+      "type" : "Leasable Space",
+      "cluster" : "cluster-a-21",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-5454",
+      "code" : "W-00005",
+      "id" : 5,
+      "city": "Chennai",
+      "space_available": 5000,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-21",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-4345",
+      "code" : "W-00006",
+      "id" : 6,
+      "city": "Chennai",
+      "space_available": 2000,
+      "type" : "Leasable Space",
+      "cluster" : "cluster-a-21",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-3455",
+      "code" : "W-00007",
+      "id" : 7,
+      "city": "Mumbai",
+      "space_available": 5000,
+      "type" : "Leasable Space",
+      "cluster" : "cluster-a-2",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-23455",
+      "code" : "W-00008",
+      "id" : 8,
+      "city": "Bangalore",
+      "space_available": 10000,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-21",
+      "is_registered" : true,
+      "is_live" : true
+    },
+    {
+      "name" : "Warehouse-6457",
+      "code" : "W-00009",
+      "id" : 9,
+      "city": "Bangalore",
+      "space_available": 500,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-1",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-32456",
+      "code" : "W-000010",
+      "id" : 10,
+      "city": "Guwahati",
+      "space_available": 1000,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-1",
+      "is_registered" : true,
+      "is_live" : true
+    },
+    {
+      "name" : "Warehouse-3245678",
+      "code" : "W-000011",
+      "id" : 11,
+      "city": "Delhi",
+      "space_available": 2000,
+      "type" : "Leasable Space",
+      "cluster" : "cluster-v-2",
+      "is_registered" : true,
+      "is_live" : false
+    },
+    {
+      "name" : "Warehouse-4567",
+      "code" : "W-000012",
+      "id" : 12,
+      "city": "Indore",
+      "space_available": 5000,
+      "type" : "Warehouse Service",
+      "cluster" : "cluster-a-1",
+      "is_registered" : true,
+      "is_live" : true
+    },
+    {
+      "name" : "Warehouse-458",
+      "code" : "W-000013",
+      "id" : 13,
+      "city": "Delhi",
+      "space_available": 8000,
+      "type" : "Leasable Space",
+      "cluster" : "cluster-a-1",
+      "is_registered" : true,
+      "is_live" : false
+    }
+    ,
+      {
+        "name" : "Warehouse-9876",
+        "code" : "W-000014",
+        "id" : 14,
+        "city": "Kolkata",
+        "space_available": 500,
+        "type" : "Leasable Space",
+        "cluster" : "cluster-b-12",
+        "is_registered" : true,
+        "is_live" : false
+      },
+      {
+        "name" : "Warehouse-4563",
+        "code" : "W-000015",
+        "id" : 15,
+        "city": "Pune",
+        "space_available": 100,
+        "type" : "Warehouse Service",
+        "cluster" : "cluster-c-9",
+        "is_registered" : true,
+        "is_live" : true
+      },
+      {
+        "name" : "Warehouse-7890",
+        "code" : "W-000016",
+        "id" : 16,
+        "city": "Hyderabad",
+        "space_available": 5000,
+        "type" : "Leasable Space",
+        "cluster" : "cluster-d-15",
+        "is_registered" : false,
+        "is_live" : false
+      },
+      {
+        "name" : "Warehouse-3321",
+        "code" : "W-000017",
+        "id" : 17,
+        "city": "Bangalore",
+        "space_available": 980,
+        "type" : "Warehouse Service",
+        "cluster" : "cluster-a-21",
+        "is_registered" : true,
+        "is_live" : true
+      },
+      {
+        "name" : "Warehouse-1278",
+        "code" : "W-000018",
+        "id" : 18,
+        "city": "Mumbai",
+        "space_available": 230,
+        "type" : "Leasable Space",
+        "cluster" : "cluster-a-2",
+        "is_registered" : true,
+        "is_live" : false
+      },
+      {
+        "name" : "Warehouse-6574",
+        "code" : "W-000019",
+        "id" : 19,
+        "city": "Guwahati",
+        "space_available": 888,
+        "type" : "Warehouse Service",
+        "cluster" : "cluster-a-5",
+        "is_registered" : true,
+        "is_live" : false
+      },
+      {
+        "name" : "Warehouse-2314",
+        "code" : "W-000020",
+        "id" : 20,
+        "city": "Chennai",
+        "space_available": 10000,
+        "type" : "Leasable Space",
+        "cluster" : "cluster-c-11",
+        "is_registered" : true,
+        "is_live" : true
+      },
+      {
+        "name" : "Warehouse-7854",
+        "code" : "W-000021",
+        "id" : 21,
+        "city": "Indore",
+        "space_available": 500,
+        "type" : "Warehouse Service",
+        "cluster" : "cluster-b-6",
+        "is_registered" : false,
+        "is_live" : false
+      },
+      {
+        "name" : "Warehouse-9087",
+        "code" : "W-000022",
+        "id" : 22,
+        "city": "Delhi",
+        "space_available": 1400,
+        "type" : "Warehouse Service",
+        "cluster" : "cluster-a-10",
+        "is_registered" : true,
+        "is_live" : true
+      },
+      {
+        "name" : "Warehouse-6598",
+        "code" : "W-000023",
+        "id" : 23,
+        "city": "Pune",
+        "space_available": 750,
+        "type" : "Leasable Space",
+        "cluster" : "cluster-c-4",
+        "is_registered" : true,
+        "is_live" : false
+      }  
+  ]
+  
